@@ -1,21 +1,22 @@
-### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
+项目经历
 
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
 
-#### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
+苍穹外卖 Java
 
----
+ 2025.04-2025.05
 
-### **软件工程师实习生**  
-**2025年1月 – 2025年6月 | 字节跳动**  
+内容:
+本项目"苍穹外卖"是专门为餐饮企业(餐厅、饭店)定制的一款软件产品包括系统管理后台和小程序端应用两部分。其中系统管理后台主要提供给餐饮企业内部员工使用,可以对餐厅的分类、菜品、套餐、订单、员工等进行管理维护,对餐厅的各类数据进行统计同时也可进行单语音播报功能。小程序端主要提供给消费者使用可以在线浏览菜品、添加购物车、下单、支付、催单等。
+业绩:
 
-负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
+技术栈:Spring Boot、Spring MVC、MyBatis、MySQL 、Redis 、Git、Maven、Nginx、阿里云OSS、Apache POI、JWT等。
 
-#### 主要贡献:  
-- 研发并优化推荐算法，提高用户互动率和内容相关性。  
-- 设计并实现实时数据处理流程，提升模型推理的计算效率。  
-- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。
+黑马头条 Java
+
+ 2025.01-2025.03
+
+内容:
+黑马头条项目是对在线教育平台业务进行大数据统计分析的系统。碎片化、切换频繁、社交化和个性化现如今成为人们阅读行为的标签。黑马头条对海量信息进行搜集,通过系统计算分类,分析用户的兴趣进行推送从而满足用户的需求
+业绩:
+
+技术栈:Spring Boot、Spring Cloud、Seate、Mybatis - plus、MySQL、Redis、Git、Maven、Docker等。

@@ -1,3 +1,2 @@
-- 校级一等奖学金, 2022.  
-
-- Outstanding Graduation Thesis, XXX University, 2023. 
+- 优秀学生干部, 2024.  
+- 优秀青年志愿者, 2024.  

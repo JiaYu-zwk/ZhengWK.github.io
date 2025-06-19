@@ -1,20 +1,22 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+郑炜坤
+男 | 20岁  13599580733  2622710184@qq.com
+求职意向：Java | 期望薪资：2-3K | 期望城市：福州
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+个人优势
+1.拥有良好的java编码习惯,熟悉阿里规约,
+2.熟练掌握java语言基础,熟悉集合、多线程、IO等，熟悉掌握常用开发工具( IDEA等)
+3.了解Web开发技术(如Servlet、HTML、JavaScript)和常用框架(如Spring、CSS、Spring Boot)
+4.熟悉MySQL等主流数据库，能够编写简单的SQL语句；
+5.能够使用Spring，Mybatis/MybaitsPlus, SringBoot等主流框架进行开发;
+6.能够使用Redis,可灵活运用其数据类型,并对数据类型,持久化机制等了解其一定的原理,
+7.能够及时修复开发过程中发现的代码缺陷和问题，确保代码质量；
+8.熟练编写SQL语句，完成数据的增删改查操作；
+9.能够协助编写项目开发发包括技术文档、接口文档、用户手册等；
+10.具备良好的学习能力和团队合作精神，能够快速适应项目需求；
+11.熟练使用Maven项目管理工具,Git版本控制工具
+12.了解HTML，CSS，vue等前端开发技术，能看懂基础代码并进行修改;
 
-#### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
-
-#### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
-
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
-
-#### Research Interests  
-XX, XX, XX, XX.
+教育经历
+福州工商学院 本科 软件工程                  2023-2027
+主修课程：
+C语言程序设计、Java程序设计、数据结构与算法、Web前端、SQL数据库、Android程序开发
